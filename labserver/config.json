@@ -1,0 +1,10 @@
+{
+  "server":{
+    "Port": 3000
+  },
+  "mysql":{
+    "username": "root",
+    "password":"123",
+    "database":"lab"
+  }
+}
