@@ -1,0 +1,3 @@
+[submodule "labdemo"]
+	path = labdemo
+	url = ./labdemo
